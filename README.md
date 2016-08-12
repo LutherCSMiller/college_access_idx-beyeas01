@@ -1,6 +1,6 @@
-# Introduction to Data Science
+# Data Analysis and Visualization
 
-Course Materials for DS-120 at Luther College
+Course Materials for DS-320 at Luther College
 
 ## Schedule
 
