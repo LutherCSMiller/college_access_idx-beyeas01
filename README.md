@@ -9,8 +9,8 @@ Course Materials for DS-320 at Luther College
 **Topics**
 
 * What is Data Science?
-* Commemorative Class Photo
 * Course Administrivia
+* Flood Water Exercise
 * Being a "data skeptic"
 
 **Homework for Tuesday Sept 6**
