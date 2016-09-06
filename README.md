@@ -29,7 +29,7 @@ Course Materials for DS-320 at Luther College
   * man
 
 * Cloning the git repo for this class
-* Creating your own virtual environment
+* Install [Anaconda](https://www.continuum.io/downloads) on your own machine.
 * Working with data in Jupyter Notebooks
   * DataFrames
   * Series
