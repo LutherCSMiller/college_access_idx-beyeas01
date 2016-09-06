@@ -4,6 +4,42 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 6
+
+**Topics**
+
+* Looking at some examples to illustrate Tufte's Principles
+* Getting to knuth.luther.edu
+  * ssh from your computer anywhere
+  * the jupyterhub - web application on knuth
+
+* Command Line Review
+  * cd
+  * ls
+  * cp
+  * rm
+  * mkdir
+  * mv
+  * less
+  * grep
+  * nano/emacs/vi
+  * tar and zip
+  * chmod
+  * pwd
+  * man
+
+* Cloning the git repo for this class
+* Creating your own virtual environment
+* Working with data in Jupyter Notebooks
+  * DataFrames
+  * Series
+
+**Homework for Thursday Sept 8**
+
+* Read Chapter 3 of Tufte
+* Find one or more data sources (you may need to combine them) that will give us data about the price of gasoline in the USA dating back as far as you can.   At least the 1970's
+
+
 ### September 1 - Welcome
 
 **Topics**
