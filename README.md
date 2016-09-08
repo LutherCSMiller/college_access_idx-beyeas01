@@ -16,6 +16,12 @@ adjustment for inflation.  To do this we will begin to dive into some tools for 
 * BeautifulSoup for parsing and querying web pages
 * Lets look at http://www.eia.gov/totalenergy/data/annual/showtext.cfm?t=ptb0524  as an example to get some practice.
 * We may have many different data sets since I asked you to look.  One of our tasks will be to compare.
+* Here are [some instructions](http://www.maa.org/press/periodicals/loci/joma/the-consumer-price-index-and-inflation-get-cpi-data-from-the-web-and-into-a-spreadsheet) for getting consumer price index information.
+
+** Assignment **
+
+* For Tuesday complete the exercise of scraping the web page for the data.  Also make sure you have downloaded the spreadsheet of CPI data.
+
 
 ### September 6
 
