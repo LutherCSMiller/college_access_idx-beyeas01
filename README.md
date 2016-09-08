@@ -4,6 +4,19 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 8
+
+**Topic**
+
+Our task for today is to Create one or more visualizations to help us put into perspective the change in
+gasoline prices over the years.  We will want to follow Tufte's rule for looking at prices by computing our own
+adjustment for inflation.  To do this we will begin to dive into some tools for obtaining data such as the requests module and BeautifulSoup.
+
+* requests - for downloading web pages
+* BeautifulSoup for parsing and querying web pages
+* Lets look at http://www.eia.gov/totalenergy/data/annual/showtext.cfm?t=ptb0524  as an example to get some practice.
+* We may have many different data sets since I asked you to look.  One of our tasks will be to compare.
+
 ### September 6
 
 **Topics**
