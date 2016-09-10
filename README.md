@@ -4,6 +4,25 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+
+### September 13
+
+**Readings**
+
+* The red book has two good chapters to help with the current project 
+  * Chapter 1 - Development Setup has some good advice on installing Anaconda
+  * Chapter 5 - Getting data off the web talks about requests and BeautifulSoup
+  
+**Topic**
+
+* You should have your program to scrape the data from the gasoline web site working, and you should have an excel spreadsheet of CPI data.
+* We will restart the process of converting the raw data to a DataFrame and then we will adjust the gas prices for inflation.
+* In class we will also work through some of the parts of chapter 5
+
+**Assignment**
+
+* TBD
+
 ### September 8
 
 **Topic**
