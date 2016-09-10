@@ -21,7 +21,7 @@ Course Materials for DS-320 at Luther College
 
 **Assignment**
 
-* TBD
+* Experimental Hand in method:  https://classroom.github.com/assignment-invitations/3b13f4b6b9f48cdf30630abd005f626f  I have not tried this in class yet, so we will see how well this works for you to turn in your Notebook you created for this exercise.
 
 ### September 8
 
