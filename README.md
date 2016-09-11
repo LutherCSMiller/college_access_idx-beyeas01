@@ -11,6 +11,7 @@ Course Materials for DS-320 at Luther College
 
 * The red book has two good chapters to help with the current project 
   * Chapter 1 - Development Setup has some good advice on installing Anaconda
+  * Pages 140 to 150 have some great information on reading and writing csv files.
   * Chapter 5 - Getting data off the web talks about requests and BeautifulSoup
   
 **Topic**
