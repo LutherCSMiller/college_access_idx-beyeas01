@@ -9,20 +9,23 @@ Course Materials for DS-320 at Luther College
 
 **Readings**
 
-* The red book has two good chapters to help with the current project 
+* The red book has two good chapters to help with the current project
   * Chapter 1 - Development Setup has some good advice on installing Anaconda
   * Pages 140 to 150 have some great information on reading and writing csv files.
   * Chapter 5 - Getting data off the web talks about requests and BeautifulSoup
-  
+
 **Topic**
 
 * You should have your program to scrape the data from the gasoline web site working, and you should have an excel spreadsheet of CPI data.
 * We will restart the process of converting the raw data to a DataFrame and then we will adjust the gas prices for inflation.
-* In class we will also work through some of the parts of chapter 5
+* In class we will also work through the rest of the gas price exercise
 
 **Assignment**
 
 * Experimental Hand in method:  https://classroom.github.com/assignment-invitations/3b13f4b6b9f48cdf30630abd005f626f  I have not tried this in class yet, so we will see how well this works for you to turn in your Notebook you created for this exercise.
+
+* For Thursday, Another scraping exercise.  -- Scrape the the box office proceeds for the top grossing movies of all time from http://www.the-numbers.com/movie/records/All-Time-Domestic-Box-Office   Convert these into a Pandas Data Frame and save them as a CSV file.   You will hand in your notebook.  Maybe on github maybe on katie depending on how the experiment goes.
+
 
 ### September 8
 
