@@ -24,7 +24,7 @@ Course Materials for DS-320 at Luther College
 
 * Experimental Hand in method:  https://classroom.github.com/assignment-invitations/3b13f4b6b9f48cdf30630abd005f626f  I have not tried this in class yet, so we will see how well this works for you to turn in your Notebook you created for this exercise.
 
-* For Thursday, Another scraping exercise.  -- Scrape the the box office proceeds for the top grossing movies of all time from http://www.the-numbers.com/movie/records/All-Time-Domestic-Box-Office   Convert these into a Pandas Data Frame and save them as a CSV file.   You will hand in your notebook.  Maybe on github maybe on katie depending on how the experiment goes.
+* For Thursday, Another scraping exercise.  -- Scrape the the box office proceeds for the top grossing movies of all time from http://www.the-numbers.com/movie/records/All-Time-Domestic-Box-Office   Convert these into a Pandas Data Frame and save them as a CSV file.   You will hand in your notebook.  Maybe on github maybe on katie depending on how the experiment goes. Since the experiment was largely a success, turn in your scraping exercise here:  https://classroom.github.com/assignment-invitations/41a43599b6a6051041d8eef98264beb1
 
 
 ### September 8
