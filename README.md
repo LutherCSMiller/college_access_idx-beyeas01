@@ -4,6 +4,20 @@ Course Materials for DS-320 at Luther College
 
 ## Schedule
 
+### September 15
+
+**Topic**
+
+* Our challenge for today will be to take the box office movie data you got and adjust the price for inflation.  Then we'll re-sort the data.   BUT, we will not be using the spreadsheet and doing our own calculations to adjust the prices, we will use a web service.
+
+* Transferring data across the web
+* Serializing data (JSON/XML)
+* What do we mean by an API?
+* Work through example.
+
+**Assignment**
+
+* Continuing with the box office data we will agument it with further information from IMDB.  Using the http://www.omdbapi.com  API.  It will return data in JSON format and uses a simple query string to make the request.  The Home page does a nice job of documenting the API.  Start by making a new repo using this invitation.  https://classroom.github.com/assignment-invitations/30377fceb9efd4942454402d864d423f
 
 ### September 13
 
